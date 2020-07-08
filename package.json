@@ -1,0 +1,19 @@
+{
+  "name": "@mksinc/ajs-hw.-4-platforms.-1-library",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKSInc/AJS-hw.-4-platforms.-1-Library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKSInc/AJS-hw.-4-platforms.-1-Library/issues"
+  },
+  "homepage": "https://github.com/MKSInc/AJS-hw.-4-platforms.-1-Library#readme"
+}
